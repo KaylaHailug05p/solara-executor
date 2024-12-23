@@ -2,7 +2,8 @@
 Download Solara Executor for free in 2024. Revolutionize your gaming experience with the most advanced version of Solara Executor, offering unmatched speed and stability.  
 
 
-![solara1](https://github.com/user-attachments/assets/0049c760-6f95-4781-bd5f-87cdd23bd213)
+
+![solar](https://github.com/user-attachments/assets/85c8bfa7-7a74-4d6c-9b3d-ac5365d6fa71)
 
 - ⚡ **Superior Performance**: Play without limits thanks to faster execution and resource optimization.  
 - 🚀 **Boosted Speed**: Launch games and scripts with unprecedented velocity.  
